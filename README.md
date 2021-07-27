@@ -27,8 +27,7 @@ The code is present in jupyter notebook in attached files. However, it is recomm
 ![Observation using Tensorboard](https://github.com/karnoark/object-detection-on-indian-driving-dataset/blob/334e89a37a536001546f36186273562436c5f632/Inferences/Objervation.png)
 
 # Results
-![Inference on Test images](https://github.com/karnoark/object-detection-on-indian-driving-dataset/blob/334e89a37a536001546f36186273562436c5f632/Inferences/yoloV5_idd.jpg
+![Inference on Test images](https://github.com/karnoark/object-detection-on-indian-driving-dataset/blob/334e89a37a536001546f36186273562436c5f632/Inferences/yoloV5_idd.jpg)
 
 https://user-images.githubusercontent.com/79748668/127192248-27392538-15cb-4957-a2ab-e27d81a2d207.mp4
 
-)
