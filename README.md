@@ -10,6 +10,7 @@ Object detection is a computer vision task that requires object(s) to be detecte
 Joseph Redmon, et al. originally designed YOLOv1, v2 and v3 models that perform real-time object detection. YOLO "You Only Look Once" is a state-of-the-art real-time deep learning algorithm used for object detection, localization and classification in images and videos. This algorithm is very fast, accurate and at the forefront of object detection based projects. 
 
 Each of the versions of YOLO kept improving the previous in accuracy and performance. Then came YOLOv4 developed by another team, further adding to performance of model and finally the YOLOv5 model was introduced by Glenn Jocher in June 2020. This model significantly reduces the model size (YOLOv4 on Darknet had 244MB size whereas YOLOv5 smallest model is of 27MB). YOLOv5 also claims a faster accuracy and more frames per second than YOLOv4 as shown in graph below, taken from Roboflow.ai's website.
+![yolov5 comparison](https://github.com/karnoark/object-detection-on-indian-driving-dataset/blob/334e89a37a536001546f36186273562436c5f632/Inferences/yolov5%20comparison.png)
 
 
 # Dataset
@@ -23,5 +24,11 @@ I used [roboflow](https://roboflow.com/) for data generation . Roboflow also giv
 The code is present in jupyter notebook in attached files. However, it is recommended to copy the whole code in Google Colab notebook.
 
 # Objervations
+![Observation using Tensorboard](https://github.com/karnoark/object-detection-on-indian-driving-dataset/blob/334e89a37a536001546f36186273562436c5f632/Inferences/Objervation.png)
 
 # Results
+![Inference on Test images](https://github.com/karnoark/object-detection-on-indian-driving-dataset/blob/334e89a37a536001546f36186273562436c5f632/Inferences/yoloV5_idd.jpg
+
+https://user-images.githubusercontent.com/79748668/127192248-27392538-15cb-4957-a2ab-e27d81a2d207.mp4
+
+)
